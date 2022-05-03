@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>default: break;</title>
+    <link>https://defaultbreak.org/</link>
+    <description>Recent content on default: break;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>copyright 2022 by mílton gago da câmara moura</copyright>
+    <lastBuildDate>Tue, 03 May 2022 22:25:25 +0000</lastBuildDate><atom:link href="https://defaultbreak.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World (Again)</title>
+      <link>https://defaultbreak.org/posts/hello-world-again/</link>
+      <pubDate>Tue, 03 May 2022 22:25:25 +0000</pubDate>
+      
+      <guid>https://defaultbreak.org/posts/hello-world-again/</guid>
+      <description>let&amp;rsquo;s make this happen, biatch.</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://defaultbreak.org/about/</link>
+      <pubDate>Tue, 03 May 2022 22:15:00 +0000</pubDate>
+      
+      <guid>https://defaultbreak.org/about/</guid>
+      <description>this is where I will present myself.
+with caution.</description>
+    </item>
+    
+  </channel>
+</rss>

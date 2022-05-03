@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on default: break;</title>
+    <link>https://defaultbreak.org/categories/</link>
+    <description>Recent content in Categories on default: break;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>copyright 2022 by mílton gago da câmara moura</copyright><atom:link href="https://defaultbreak.org/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
